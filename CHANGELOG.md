@@ -190,13 +190,14 @@ This is the initial release.
 [#175]: https://github.com/linebender/color/pull/175
 
 [Unreleased]: https://github.com/linebender/color/compare/v0.3.1...HEAD
-[0.3.1]: https://github.com/linebender/color/releases/tag/v0.3.1
-[0.3.0]: https://github.com/linebender/color/releases/tag/v0.3.0
-[0.2.4]: https://github.com/linebender/color/releases/tag/v0.2.4
-[0.2.3]: https://github.com/linebender/color/releases/tag/v0.2.3
-[0.2.2]: https://github.com/linebender/color/releases/tag/v0.2.2
-[0.2.1]: https://github.com/linebender/color/releases/tag/v0.2.1
-[0.2.0]: https://github.com/linebender/color/releases/tag/v0.2.0
+[0.3.1]: https://github.com/linebender/color/compare/v0.3.0...v0.3.1
+<!-- Note that this still comparing against v0.2.3, because v0.2.4 is a cherry-picked patch -->
+[0.3.0]: https://github.com/linebender/color/compare/v0.2.3...v0.3.0
+[0.2.4]: https://github.com/linebender/color/compare/v0.2.3...v0.2.4
+[0.2.3]: https://github.com/linebender/color/compare/v0.2.2...v0.2.3
+[0.2.2]: https://github.com/linebender/color/compare/v0.2.1...v0.2.2
+[0.2.1]: https://github.com/linebender/color/compare/v0.2.0...v0.2.1
+[0.2.0]: https://github.com/linebender/color/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/linebender/color/releases/tag/v0.1.0
 
 [MSRV]: README.md#minimum-supported-rust-version-msrv
